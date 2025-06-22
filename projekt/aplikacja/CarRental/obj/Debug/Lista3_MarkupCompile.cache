@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Studia\Inzyr\projekt\CarRental\obj\Debug\
+H:\Projekty\Inzynieria-oprogramowania\projekt\aplikacja\CarRental\obj\Debug\
 Lista3
 none
 false
 DEBUG;TRACE
-D:\Studia\Inzyr\projekt\CarRental\App.xaml
+H:\Projekty\Inzynieria-oprogramowania\projekt\aplikacja\CarRental\App.xaml
 6-1125947418
 
 22-830444819
-27-1965236311
+27-2025389045
 Views\CarWindow.xaml;Views\ExtendRentWindow.xaml;Views\MainWindow.xaml;Views\ManageRentals.xaml;Views\RentCarWindow.xaml;Views\ShowData.xaml;
 
 False

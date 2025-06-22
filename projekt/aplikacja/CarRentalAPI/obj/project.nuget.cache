@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F76x5phfgcpK2w7LUaHdlOUWGmCgXq1pAVo4JgHOPd6Ur+Y94PyYnL1kljAc57VzabYKwkVabHhfDCGk/MJyNg==",
+  "dgSpecHash": "8xu9TzUY0qDELdqHb8eX4ydPK1xW83Mz3MqhXdibWzQPBNGZDIGP0n0Gp6oKXNZVOtuqkP96o2FqaBBFzf0CnA==",
   "success": true,
-  "projectFilePath": "D:\\Studia\\Inzyr\\projekt\\CarRentalAPI\\CarRentalAPI.csproj",
+  "projectFilePath": "H:\\Projekty\\Inzynieria-oprogramowania\\projekt\\aplikacja\\CarRentalAPI\\CarRentalAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\macie\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\macie\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

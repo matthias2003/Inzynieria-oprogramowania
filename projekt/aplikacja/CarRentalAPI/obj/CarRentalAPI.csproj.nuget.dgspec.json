@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studia\\Inzyr\\projekt\\CarRentalAPI\\CarRentalAPI.csproj": {}
+    "H:\\Projekty\\Inzynieria-oprogramowania\\projekt\\aplikacja\\CarRentalAPI\\CarRentalAPI.csproj": {}
   },
   "projects": {
-    "D:\\Studia\\Inzyr\\projekt\\CarRentalAPI\\CarRentalAPI.csproj": {
+    "H:\\Projekty\\Inzynieria-oprogramowania\\projekt\\aplikacja\\CarRentalAPI\\CarRentalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studia\\Inzyr\\projekt\\CarRentalAPI\\CarRentalAPI.csproj",
+        "projectUniqueName": "H:\\Projekty\\Inzynieria-oprogramowania\\projekt\\aplikacja\\CarRentalAPI\\CarRentalAPI.csproj",
         "projectName": "CarRentalAPI",
-        "projectPath": "D:\\Studia\\Inzyr\\projekt\\CarRentalAPI\\CarRentalAPI.csproj",
+        "projectPath": "H:\\Projekty\\Inzynieria-oprogramowania\\projekt\\aplikacja\\CarRentalAPI\\CarRentalAPI.csproj",
         "packagesPath": "C:\\Users\\macie\\.nuget\\packages\\",
-        "outputPath": "D:\\Studia\\Inzyr\\projekt\\CarRentalAPI\\obj\\",
+        "outputPath": "H:\\Projekty\\Inzynieria-oprogramowania\\projekt\\aplikacja\\CarRentalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\macie\\AppData\\Roaming\\NuGet\\NuGet.Config",
